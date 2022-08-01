@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1099370369008",
+    "project_id": "azozblood-a4e58",
+    "storage_bucket": "azozblood-a4e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099370369008:android:a8de17aede9795a5f41735",
+        "android_client_info": {
+          "package_name": "com.zoz.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099370369008-6lnqk5mj58s1u8t9b4otphl33kqe1l3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zoz.blood",
+            "certificate_hash": "376e96b09a0d80f5b8669abcc9f2f73053636a83"
+          }
+        },
+        {
+          "client_id": "1099370369008-b01vckms15cahm5809a4e9qgp594mg1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3wrByjtqwGrjSp0NFciqdDnRgAOh7TSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099370369008-b01vckms15cahm5809a4e9qgp594mg1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
